@@ -8,7 +8,6 @@
 
 [Claps GitHub](https://github.com/google/clasp)
 
-
 ``` bash
 Usage: clasp <command> [options]
 
